@@ -48,7 +48,7 @@ Host github.com
   IdentitiesOnly yes
 
 ## プライベート用
-Host github.con.private
+Host github.com.private
   HostName github.com
   User git
   IdentityFile ~/.ssh/github/id_ed25519_private
