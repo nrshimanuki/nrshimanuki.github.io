@@ -3,8 +3,8 @@ SSHを使用した接続
 
 ## 概要・前提
 
-* github に push ができるように SSH を設定する
-* github のアカウントは仕事用とプライベート用が存在するので SSH key を分ける
+* GitHub に push ができるように SSH を設定する
+* GitHub のアカウントは仕事用とプライベート用が存在するので SSH key を分ける
 
 
 ## 手順
