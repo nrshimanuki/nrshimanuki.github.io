@@ -1,4 +1,8 @@
-# INDEX
+INDEX
+=====
+
+## Linux
+* [Linux Mint](/linux/linuxmint.md)
 
 ## Settings
 * [SSHを使用した接続](/settings/github-ssh.md)
