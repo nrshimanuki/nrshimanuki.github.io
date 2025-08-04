@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "../MAMP/htdocs/sample/www"
+		}
+	],
+	"settings": {
+		"files.exclude": {
+			".vscode": true,
+			"node_modules": true,
+			"httpdocs/.htaccess": true,
+			"httpdocs/assets/css/": true,
+			"httpdocs/assets/img/": true,
+			"httpdocs/assets/js/": true,
+			"httpdocs/assets/libs/": true,
+			"httpdocs/wp-sample/.htaccess": true,
+			"httpdocs/wp-sample/index.php": true,
+			"httpdocs/wp-sample/wp-*.php": true,
+			"httpdocs/wp-sample/readme.html": true,
+			"httpdocs/wp-sample/license.txt": true,
+			"httpdocs/wp-sample/xmlrpc.php": true,
+			"httpdocs/wp-sample/wp-admin/": true,
+			"httpdocs/wp-sample/wp-includes/": true,
+			"httpdocs/wp-sample/wp-content/languages/": true,
+			"httpdocs/wp-sample/wp-content/plugins/": true,
+			"httpdocs/wp-sample/wp-content/upgrade/": true,
+			"httpdocs/wp-sample/wp-content/uploads/": true,
+			"httpdocs/wp-sample/wp-content/upgrade-temp-backup": true,
+			"httpdocs/wp-sample/wp-content/index.php": true,
+			"httpdocs/wp-sample/wp-content/themes/index.php": true,
+			"httpdocs/wp-sample/wp-content/themes/*/screenshot.png": true,
+			"httpdocs/wp-sample/wp-content/themes/sample/assets/img": true,
+			"httpdocs/wp-sample/wp-content/themes/sample/index.php": true,
+			"httpdocs/favicon.ico": true,
+			"httpdocs/android-touch-icon.png": true,
+			"httpdocs/apple-touch-icon.png": true,
+			"src/compiled": true,
+			".editorconfig": true,
+			".gitignore": true,
+			"babel.config.js": true,
+			"bs-config.js": true,
+			"package.json": true,
+			"package-lock.json": true,
+			"postcss.config.js": true
+		}
+	}
+}
