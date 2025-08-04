@@ -5,6 +5,7 @@ VSCode
 
 * 設定（⌘ + ,） → ユーザー → 右上の設定ファイルアイコンをクリック
 
+@[vscode-user-settings.json](../files/vscode/vscode-user-settings.json)
 ```
 {
     "files.exclude": {
@@ -33,7 +34,7 @@ VSCode
 
 * 設定（⌘ + ,） → ワークスペース → 右上の設定ファイルアイコンをクリック
 
-@vscode-workspace-settings.json
+@[vscode-workspace-settings.json](../files/vscode/vscode-workspace-settings.json)
 ```
 {
 	"folders": [
@@ -86,7 +87,7 @@ VSCode
 
 ## カーソルの移動を vim 風にする
 
-@vscode-keybindings.json
+@[vscode-keybindings.json](../files/vscode/vscode-keybindings.json)
 ```
 [
     { "key": "ctrl+l","command": "cursorRight","when":"textInputFocus" },
