@@ -8,7 +8,7 @@ INDEX
 * [Linux Mint](/linux/linux_mint.md)
 
 ## Settings
-* [VSCode](/settings/vscode-settings.md)
+* [VSCode](/settings/vscode/vscode-settings.md)
 * [.zshrc](/settings/zshrc.md)
 
 ## Tools
