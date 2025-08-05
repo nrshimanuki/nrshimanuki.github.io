@@ -15,8 +15,8 @@ INDEX
 * [.zshrc](/settings/zshrc.md)
 
 ## Tools
-* [csv-to-json](/files/csv-to-json/csv-to-json.html)
-* [excel-to-html](/files/excel-to-html/excel-to-html.py)
+* [csv-to-json](/tools/csv-to-json/csv-to-json.md)
+* [excel-to-html](/tools/excel-to-html/excel-to-html.md)
 
 ## Notes
 * [Mac Global Setup](/notes/mac-global-setup.md)
