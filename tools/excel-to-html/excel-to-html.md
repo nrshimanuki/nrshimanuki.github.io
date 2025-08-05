@@ -1,7 +1,7 @@
 excel-to-html
 =============
 
-@ [excel-to-html.py](./excel-to-html.py)
+@ [excel-to-html.py](./files/excel-to-html.py)
 ```
 import pandas as pd
 import math
