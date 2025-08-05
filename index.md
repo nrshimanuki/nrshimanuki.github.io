@@ -16,4 +16,5 @@ INDEX
 * [excel-to-html](/files/excel-to-html/excel-to-html.py)
 
 ## Notes
-* [Mac システム設定](/notes/setup-mac.md)
+* [Mac Global Setup](/notes/mac-global-setup.md)
+* [Mac システム設定](/notes/mac-setup.md)
