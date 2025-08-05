@@ -1,6 +1,9 @@
 INDEX
 =====
 
+## Git
+* [Git](/git/git.md)
+
 ## GitHub
 * [SSHを使用した接続](/github/github-ssh.md)
 
