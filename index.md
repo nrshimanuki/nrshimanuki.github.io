@@ -8,7 +8,8 @@ INDEX
 * [Linux Mint](/linux/linux_mint.md)
 
 ## Settings
-* [VSCodeの設定](/settings/vscode-settings.md)
+* [VSCode](/settings/vscode-settings.md)
+* [.zshrc](/settings/zshrc.md)
 
 ## Notes
-* [Macの設定](/notes/setup-mac.md)
+* [Mac システム設定](/notes/setup-mac.md)
