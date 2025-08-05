@@ -18,6 +18,7 @@ INDEX
 * [.zshrc](/settings/zshrc.md)
 
 ## Tools
+* [commands](/tools/commands.md)
 * [csv-to-json](/tools/csv-to-json/csv-to-json.md)
 * [excel-to-html](/tools/excel-to-html/excel-to-html.md)
 
