@@ -1,12 +1,14 @@
 INDEX
 =====
 
+## GitHub
+* [SSHを使用した接続](/github/github-ssh.md)
+
 ## Linux
-* [Linux Mint](/linux/linuxmint.md)
+* [Linux Mint](/linux/linux_mint.md)
 
 ## Settings
-* [SSHを使用した接続](/settings/github-ssh.md)
-* [VSCodeの設定](/settings/vscode.md)
+* [VSCodeの設定](/settings/vscode-settings.md)
 
 ## Notes
 * [Macの設定](/notes/setup-mac.md)
